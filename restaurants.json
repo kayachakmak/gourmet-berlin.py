@@ -1,0 +1,650 @@
+[{
+  "_id": {
+    "$oid": "65673af5a70922bc5b106777"
+  },
+  "name": "Restaurant Patrice",
+  "type": "French",
+  "isAnimalFriendly": true,
+  "image": "https://lh3.googleusercontent.com/p/AF1QipPIQf6EIty0Kz5PeKpCMPPhR7NuuqwQpGSSW6m5=s680-w680-h510",
+  "coordinates": {
+    "lat": 52.483856298224275,
+    "long": 13.325678824193279
+  },
+  "address": "Mainzer Str. 17, 10715 Berlin",
+  "link": "https://patrice-restaurant.de/",
+  "menu": "https://patrice-restaurant.de/speisen-getraenke/",
+  "isChildFriendly": true
+},
+{
+  "_id": {
+    "$oid": "65673af5a70922bc5b10677c"
+  },
+  "name": "El Borriquito",
+  "type": "Spanish",
+  "isAnimalFriendly": false,
+  "image": "https://www.urbanite.net/wp-content/uploads/2021/08/SpanischIberisch_unsplash.com_Young-Shih.jpg",
+  "coordinates": {
+    "lat": 52.50598349539771,
+    "long": 13.31556694417886
+  },
+  "link": "https://www.el-borriquito.de/",
+  "menu": "https://www.el-borriquito.de/karte",
+  "isChildFriendly": false,
+  "address": "Wielandstraße 6, 10625 Berlin"
+},
+{
+  "_id": {
+    "$oid": "65673af5a70922bc5b106773"
+  },
+  "name": "Kimchi Princess",
+  "type": "Korean",
+  "isAnimalFriendly": false,
+  "image": "https://for91days.com/wp-content/uploads/2020/07/67-Kimchi-Princess-Berlin-DSC07793-1200x800.jpg",
+  "coordinates": {
+    "lat": 52.49868701010024,
+    "long": 13.426004783595616
+  },
+  "address": "Skalitzer Str. 36, 10999 Berlin",
+  "link": "https://kimchiprincess.com/",
+  "menu": "https://kimchiprincess.com/starters/",
+  "isChildFriendly": false
+},
+{
+  "_id": {
+    "$oid": "65673af5a70922bc5b106771"
+  },
+  "name": "Schnitzelei",
+  "isAnimalFriendly": false,
+  "image": "https://images.myguide-cdn.com/berlin/companies/schnitzelei/large/schnitzelei-133358.jpg",
+  "coordinates": {
+    "lat": 52.528840817947305,
+    "long": 13.387810183012968
+  },
+  "address": "Chausseestr 8, 10115 Berlin",
+  "link": "https://schnitzelei.de/mitte/",
+  "menu": "https://schnitzelei.de/mitte/menue/",
+  "isChildFriendly": true,
+  "type": "German"
+},
+{
+  "_id": {
+    "$oid": "65761190ce3bb402e14a8e27"
+  },
+  "name": "Taverna Restaurant Mastiha",
+  "type": "Greek",
+  "isAnimalFriendly": true,
+  "image": "https://tb-static.uber.com/prod/image-proc/processed_images/7ec5b32dca6f2e6fa958e0c23244dd95/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg",
+  "coordinates": {
+    "lat": 52.4885363,
+    "long": 13.392894
+  },
+  "address": "Arndtstraße 12, 10965 Berlin",
+  "link": "https://www.mastihaberlin.de/",
+  "menu": "https://www.mastihaberlin.de/menus",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e473be28db64ef2afd6615"
+  },
+  "name": "Kaya",
+  "type": "Turkish",
+  "isAnimalFriendly": false,
+  "image": "Hdhdh",
+  "coordinates": {
+    "lat": 52.446650700000006,
+    "long": 13.295136215538047
+  },
+  "address": "Unter den eichen 57 Berlin",
+  "link": "",
+  "menu": "",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65673af5a70922bc5b10677a"
+  },
+  "name": "Restaurant Sadhu",
+  "type": "Pakistani",
+  "isAnimalFriendly": false,
+  "image": "https://flipdish.imgix.net/KFiez26GcO08PTfuZyZDotYizlo.jpg?w=1080&h=720",
+  "coordinates": {
+    "lat": 52.54596740451263,
+    "long": 13.421753722750594
+  },
+  "address": "Stargarder Str. 60, 10437 Berlin",
+  "link": "https://www.restaurant-sadhu.de/?l=de",
+  "menu": "sadhu3-berlin.de",
+  "isChildFriendly": true
+},
+{
+  "_id": {
+    "$oid": "65761109ce3bb402e14a8e1e"
+  },
+  "name": "Maria Bonita",
+  "type": "Mexican",
+  "isAnimalFriendly": true,
+  "image": "https://imageproxy.wolt.com/menu/menu-images/5f16aa7a871deac24d4a72bb/b660891a-d245-11ea-99e0-de94e032741b_mariabonita__11.jpeg",
+  "coordinates": {
+    "lat": 52.5403657,
+    "long": 13.4181476
+  },
+  "address": "Danziger Str. 33, 10435 Berlin",
+  "link": "https://mariabonita.de",
+  "menu": "https://wolt.com/en/deu/berlin/restaurant/maria-bonita",
+  "isChildFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65761533ce3bb402e14a8e3f"
+  },
+  "name": "Comcha",
+  "type": "Vietnamese",
+  "isAnimalFriendly": true,
+  "image": "https://images.happycow.net/venues/1024/20/96/hcmp209654_1466931.jpeg",
+  "coordinates": {
+    "lat": 52.5010071,
+    "long": 13.4171057
+  },
+  "address": " Dresdener Str. 15, 10999 Berlin",
+  "link": "https://comcha.business.site/",
+  "menu": "https://comcha.business.site/",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65760df8ce3bb402e14a8df7"
+  },
+  "name": "Malafemmena Prenzlauer Berg",
+  "type": "Italian",
+  "isAnimalFriendly": false,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/19/0a/12/f4/pizza-verace-napoleta.jpg",
+  "coordinates": {
+    "lat": 52.5403024,
+    "long": 13.4154684
+  },
+  "address": "Danziger Str. 16, 10435 Berlin",
+  "link": "https://malafemmena.restaurant/",
+  "menu": "https://malafemmena.restaurant/prenzlauer-berg-food-menu/",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65760f7dce3bb402e14a8e0f"
+  },
+  "name": "MACHETE",
+  "type": "Mexican",
+  "isAnimalFriendly": false,
+  "image": "https://qul.imgix.net/d85aa5af-a8cb-4ac1-98ba-634c2f01a442/429639_sld.jpg?auto=format&ch=Viewport-Width%2CWidth%2CDPR",
+  "coordinates": {
+    "lat": 52.5056721,
+    "long": 13.4695588
+  },
+  "address": "Neue Bahnhofstraße 29, 10245 Berlin",
+  "link": "https://machete-berlin.de/",
+  "menu": "https://wolt.com/en/deu/berlin/restaurant/machete-burrito",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c62286ed7901757065f8e5"
+  },
+  "name": "zora supermarket",
+  "type": "Indian",
+  "isAnimalFriendly": false,
+  "image": "https://lh3.googleusercontent.com/p/AF1QipPXdMVqi6S-Sx5ns0z6O3SSsJNuyuN2b58vgXog=s680-w680-h510",
+  "coordinates": {
+    "lat": 52.4937056,
+    "long": 13.4219562
+  },
+  "address": "Kottbusser Damm 93, 10967 Berlin",
+  "link": "https://zorastore.de/",
+  "menu": "Samosa",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65673af5a70922bc5b10677b"
+  },
+  "name": "Mitho Cha P-Berg",
+  "type": "Nepalian, Tibetian",
+  "isAnimalFriendly": true,
+  "image": "https://lh3.googleusercontent.com/p/AF1QipMXRk-LYkh8o2dU3Ws3KDvjA8zgh7vEDunuY_tB=s680-w680-h510",
+  "coordinates": {
+    "lat": 52.538008512746075,
+    "long": 13.420789223280876
+  },
+  "address": "Rykestraße 40, 10405 Berlin",
+  "link": "https://www.mitho-cha.com",
+  "menu": "https://www.mitho-cha.com/_files/ugd/7f5fca_52eb3d32c75f43e19f791c0a312daa94.pdf",
+  "isChildFriendly": false
+},
+{
+  "_id": {
+    "$oid": "65761006ce3bb402e14a8e15"
+  },
+  "name": "Ta’Cabrón Taqueria",
+  "type": "Mexican",
+  "isAnimalFriendly": false,
+  "image": "https://speisekarte.menu/storage/media/company_gallery/1803769/conversions/contribution_gallery.jpg",
+  "coordinates": {
+    "lat": 52.4999002,
+    "long": 13.437056
+  },
+  "address": "Skalitzer Str. 60, 10997 Berlin",
+  "link": "https://www.instagram.com/tacabrontaqueria/?igshid=ZDdkNTZiNTM%3D",
+  "menu": "",
+  "isChildFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65761134ce3bb402e14a8e22"
+  },
+  "name": "Ach Niko Ach",
+  "type": "Greek",
+  "isAnimalFriendly": false,
+  "image": "https://tb-static.uber.com/prod/image-proc/processed_images/e0efb9d55f570a1627e6be0f35fd179f/c73ecc27d2a9eaa735b1ee95304ba588.jpeg",
+  "coordinates": {
+    "lat": 52.4985867,
+    "long": 13.2982491
+  },
+  "address": "Kurfürstendamm 97-98, 10709 Berlin",
+  "link": "https://www.achnikoach.de/",
+  "menu": "https://www.achnikoach.de/speisekarte",
+  "isChildFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6576170fce3bb402e14a8e4f"
+  },
+  "name": "ZENKICHI",
+  "type": "Japanese",
+  "isAnimalFriendly": false,
+  "image": "https://lh3.googleusercontent.com/p/AF1QipOKacQXFTfy8Wb9d_AxTFuJO-nooTEziPMPrgjg=s680-w680-h510-rw",
+  "coordinates": {
+    "lat": 52.5264918,
+    "long": 13.3946036
+  },
+  "address": "Auguststraße 11-13, 10117 Berlin",
+  "link": "https://www.zenkichi.de/",
+  "menu": "https://www.zenkichi.de/pages/reservations",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65673af5a70922bc5b106778"
+  },
+  "name": "Restorani Tbilisi",
+  "type": "Georgian",
+  "isAnimalFriendly": false,
+  "image": "http://www.restorani-tbilisi.de/images/restaurant04.jpg",
+  "coordinates": {
+    "lat": 52.55595041043913,
+    "long": 13.407660177245237
+  },
+  "address": "Schönfließer Str. 15, 10439 Berlin",
+  "link": "http://www.restorani-tbilisi.de/",
+  "menu": "http://www.restorani-tbilisi.de/pdf/speisekarte.pdf",
+  "isChildFriendly": true
+},
+{
+  "_id": {
+    "$oid": "65673af5a70922bc5b106776"
+  },
+  "name": "Swing Kitchen",
+  "type": "American",
+  "isAnimalFriendly": true,
+  "image": "https://images.happycow.net/venues/1024/14/33/hcmp143387_2118611.jpeg",
+  "coordinates": {
+    "lat": 52.52013738760155,
+    "long": 13.389542454982552
+  },
+  "address": "Georgenstraße 198-203, 10117 Berlin",
+  "link": "https://www.swingkitchen.com/en/",
+  "menu": "https://www.swingkitchen.com/en/our-menu/",
+  "isChildFriendly": true
+},
+{
+  "_id": {
+    "$oid": "65673af5a70922bc5b106775"
+  },
+  "name": "Sarajevo Berlin",
+  "type": "Bosnian",
+  "isAnimalFriendly": true,
+  "image": "https://lh3.googleusercontent.com/p/AF1QipOQaTozHp9RgJ7hDtQzAuLGIJFnPtjWmAylsrou=w768-h768-n-o-v1",
+  "coordinates": {
+    "lat": 52.54812356206719,
+    "long": 13.359693919281018
+  },
+  "address": "Triftstr. 8,13353 Berlin",
+  "link": "https://sarajevo-berlin.business.site/?utm_source=gmb&utm_medium=referral",
+  "isChildFriendly": false
+},
+{
+  "_id": {
+    "$oid": "65760f0ece3bb402e14a8e09"
+  },
+  "name": "Zola",
+  "type": "Italian",
+  "isAnimalFriendly": true,
+  "image": "https://true-italian.com/wp-content/uploads/2021/09/Zola-East-Side.jpeg",
+  "coordinates": {
+    "lat": 52.496112100000005,
+    "long": 13.422291284606487
+  },
+  "address": "Paul-Lincke-Ufer 39-40, 10999 Berlin",
+  "link": "https://www.zolaneapolitanpizza.de",
+  "menu": "https://www.zolaneapolitanpizza.de",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6576139ece3bb402e14a8e32"
+  },
+  "name": "Goji",
+  "type": "Chinese",
+  "isAnimalFriendly": false,
+  "image": "https://goji-berlin.de/wp-content/uploads/2020/10/dim-sum-2346105-scaled.jpg",
+  "coordinates": {
+    "lat": 52.4952654,
+    "long": 13.3399405
+  },
+  "address": "Motzstraße 58, 10777 Berlin",
+  "link": "https://goji-berlin.de",
+  "menu": "https://goji-berlin.de/speisekarte/",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657617aece3bb402e14a8e53"
+  },
+  "name": "Bar Raval",
+  "type": "Spanish",
+  "isAnimalFriendly": true,
+  "image": "https://www.garcon24.de/wp-content/uploads/2022/12/Blog-Header-@BildArt-Media-Verlag-750x430.jpeg",
+  "coordinates": {
+    "lat": 52.4980481,
+    "long": 13.436371
+  },
+  "address": "Lübbener Str. 1, 10997 Berlin",
+  "link": "https://www.instagram.com/barravalberlin/",
+  "menu": "https://www.quandoo.de/en/place/bar-raval-7160/menu",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6576181ace3bb402e14a8e5a"
+  },
+  "name": "The Flying Monkey",
+  "type": "Chinese",
+  "isAnimalFriendly": true,
+  "image": "https://d1ralsognjng37.cloudfront.net/59ce91d1-cfc1-4483-9673-2696fba5954f.jpeg",
+  "coordinates": {
+    "lat": 52.5389081,
+    "long": 13.4097955
+  },
+  "address": "Kastanienallee 15, 10435 Berlin",
+  "link": "https://www.flyingmonkeyberlin.com/de",
+  "menu": "https://www.flyingmonkeyberlin.com/de/menu",
+  "isChildFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6569efd2ead26b0ff82dc6dc"
+  },
+  "name": "Örnek Lahmacun",
+  "type": "Turkish",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPWkB-CTIzwAJG_ukalGhXXF9at9dD1jfZQ&usqp=CAU",
+  "coordinates": {
+    "lat": 52.478733,
+    "long": 13.4379114
+  },
+  "address": " Karl-Marx-Straße 109, 12043 Berlin",
+  "link": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65760e5fce3bb402e14a8e01"
+  },
+  "name": "Gazzo Pizza",
+  "type": "Italian",
+  "isAnimalFriendly": true,
+  "image": "https://flipdish.imgix.net/Wyfag5h2Sw3UQNfyMzVgIpnceA.jpg?auto=format&auto=compress&fit=crop&w=767&h=460",
+  "coordinates": {
+    "lat": 52.4912144,
+    "long": 13.4258819
+  },
+  "address": "Hobrechtstraße 57, 12047 Berlin",
+  "link": "https://www.gazzopizza.com/”",
+  "menu": "https://www.gazzopizza.com/menu",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65673af5a70922bc5b106772"
+  },
+  "name": "Maximilians",
+  "type": "German",
+  "isAnimalFriendly": true,
+  "image": "https://scontent.ftxl3-2.fna.fbcdn.net/v/t1.6435-9/31945890_1892783380745567_3608134340979982336_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c2f564&_nc_ohc=ER11CAefEoEAX_c2OIk&_nc_ht=scontent.ftxl3-2.fna&oh=00_AfDmdiYU0K4d-KJbQoSj6j-wAlxG6icCgfCS-sb4cDJRzg&oe=658E9A57",
+  "coordinates": {
+    "lat": 52.51156211031244,
+    "long": 13.389279513687914
+  },
+  "address": "Friedrichstraße 185-190, 10117 Berlin",
+  "link": "https://www.maximilians-berlin.de/",
+  "menu": "https://www.maximilians-berlin.de/speisekarte",
+  "isChildFriendly": false
+},
+{
+  "_id": {
+    "$oid": "65761635ce3bb402e14a8e49"
+  },
+  "name": "li.ke: serious",
+  "type": "Thai",
+  "isAnimalFriendly": false,
+  "image": "https://lh3.googleusercontent.com/p/AF1QipN5k0Z4fRSnQyd-mP5OS8aXQwx-Zq0hZz1A441O=w1080-h608-p-no-v0",
+  "coordinates": {
+    "lat": 52.5116243,
+    "long": 13.4584451
+  },
+  "address": "Grünberger Str. 69, 10245 Berlin",
+  "link": "https://likeseriousthaivegan.business.site/?utm_source=gmb&utm_medium=referral",
+  "menu": "https://likeseriousthaivegan.business.site/?utm_source=gmb&utm_medium=referral",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6576f7f8a4f3338b30ff6908"
+  },
+  "name": "Hasır Ocakbaşı",
+  "type": "Turkish",
+  "isAnimalFriendly": false,
+  "image": "http://www.hasir.de/wp-content/uploads/2019/06/Hasir_14-683x1024.jpg",
+  "coordinates": {
+    "lat": 52.5051675,
+    "long": 13.4220289
+  },
+  "address": "Adalbertstraße 12, 10999 Berlin",
+  "link": "http://www.hasir.de/",
+  "menu": "http://www.hasir.de/speisekarte/",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657612f2ce3bb402e14a8e2d"
+  },
+  "name": "Kreuzberger Weltlaterne",
+  "type": "Greek",
+  "isAnimalFriendly": false,
+  "image": "https://cdn.website.dish.co/media/77/1a/1150499/KREUZBERGER-WELTLATERNE-Eingang.jpg",
+  "coordinates": {
+    "lat": 52.4970496,
+    "long": 13.41768921925718
+  },
+  "address": "Kohlfurter Str. 37, 10999 Berlin",
+  "link": "https://www.kreuzberger-weltlaterne.com/",
+  "menu": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cdn.website.dish.co/media/8f/fa/7049630/Speisekarte.pdf",
+  "isChildFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6576140fce3bb402e14a8e37"
+  },
+  "name": "No Bananas",
+  "type": "Turkish",
+  "isAnimalFriendly": true,
+  "image": "https://fastly.4sqi.net/img/general/600x600/145889656_DsZCG8eUs3no3CYhaoMU_iA6lpmrTb-B-X1K8hVodjs.jpg",
+  "coordinates": {
+    "lat": 52.4929471,
+    "long": 13.4146057
+  },
+  "address": " Dieffenbachstraße 11, 10967 Berlin",
+  "link": "https://nobananasberlin.de/",
+  "menu": "https://nobananasberlin.de/menu",
+  "isChildFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657615b1ce3bb402e14a8e44"
+  },
+  "name": "Aiko",
+  "type": "Japanese",
+  "isAnimalFriendly": false,
+  "image": "data:image/jpeg;base64,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",
+  "coordinates": {
+    "lat": 52.53053,
+    "long": 13.4003014
+  },
+  "address": "Brunnenstraße 193, 10119 Berlin",
+  "link": "http://www.aiko-sushi.de/",
+  "menu": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.aiko-sushi.de/sushi/Menu_Aiko_B5_176x250.pdf",
+  "isChildFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6ab7ba2207fb72ddf5541"
+  },
+  "name": "Agora",
+  "type": "Turkish",
+  "isAnimalFriendly": false,
+  "image": "https://tb-static.uber.com/prod/image-proc/processed_images/cd773a6d05fb821ed33d70e945e263df/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg",
+  "coordinates": {
+    "lat": 52.5094535,
+    "long": 13.4120303
+  },
+  "address": "Annenstr 13, 10179 Berlin, Germany",
+  "link": "https://agorarestaurant.eatbu.com/?lang=en",
+  "menu": "",
+  "isChildFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6c2728c5cb0ee95378be4"
+  },
+  "name": "Mardin",
+  "type": "Turkish",
+  "isAnimalFriendly": true,
+  "image": "https://lh3.googleusercontent.com/p/AF1QipNcLIp2cADh2Sf1Jm9Y8VQ6uVPpXFaoabtOZZao=s680-w680-h510",
+  "coordinates": {
+    "lat": 52.4883754,
+    "long": 13.4246967
+  },
+  "address": "Kottbusser Damm 36, 10967 Berlin",
+  "link": "https://mardinberlin.com/",
+  "menu": "https://mardinberlin.com/",
+  "isChildFriendly": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65673af5a70922bc5b106774"
+  },
+  "name": "Adana Grillhaus",
+  "type": "Turkish",
+  "isAnimalFriendly": false,
+  "image": "https://mesta.com.de/wp-content/uploads/2022/05/Adana-Grillhaus-restaurant-in-Berlin_5.jpeg",
+  "coordinates": {
+    "lat": 52.49969938040182,
+    "long": 13.426916734651888
+  },
+  "address": "Manteuffelstraße 86, 10997 Berlin",
+  "link": "https://adanagrillhaus.de/",
+  "menu": "https://adanagrillhaus.de/de/speisekarte/",
+  "isChildFriendly": false
+},
+{
+  "_id": {
+    "$oid": "65673af5a70922bc5b106779"
+  },
+  "name": "Amrit Potsdaner Platz",
+  "type": "Indian",
+  "isAnimalFriendly": true,
+  "image": "https://www.amrit.de/wp-content/uploads/2019/11/Amrit-Potsdamer-Platz-Indisches-Essen.jpg",
+  "coordinates": {
+    "lat": 52.512952916246824,
+    "long": 13.377749095898322
+  },
+  "address": "Ebertstraße 14, 10117 Berlin",
+  "link": "https://www.amrit.de/",
+  "menu": "https://www.amrit.de/speisekarte-amrit-potsdamer-platz/",
+  "isChildFriendly": true
+},
+{
+  "_id": {
+    "$oid": "65761492ce3bb402e14a8e3b"
+  },
+  "name": "Royals and Rice",
+  "type": "Vietnamese",
+  "isAnimalFriendly": true,
+  "image": "https://imageproxy.wolt.com/venue/5f19501f814252425a17eba0/28f6d498-d0ca-11ea-b1be-760f128df40d_royals_rice__cover_2.jpg",
+  "coordinates": {
+    "lat": 52.5289212,
+    "long": 13.3960201
+  },
+  "address": " Torstraße 164, 10115 Berlin",
+  "link": "https://royalsandriceberlin.de/",
+  "menu": "https://wolt.com/de/deu/berlin/restaurant/royals-rice",
+  "isChildFriendly": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb79c8b18ecde9b60e3083"
+  },
+  "name": "Spiced academy",
+  "type": "Turkish",
+  "isAnimalFriendly": false,
+  "image": "H",
+  "coordinates": {
+    "lat": 52.5020507,
+    "long": 13.411113421103485
+  },
+  "address": "ritterstr 12 berlin",
+  "link": "",
+  "menu": "",
+  "isChildFriendly": false,
+  "__v": 0
+}]
