@@ -21,7 +21,7 @@ app.config["SESSION_TYPE"]= "redis"
 app.config["SESSION_PERMANENT"]= False
 app.config["SESSION_USE_SIGNER"]= True
 
-redis_url = os.getenv("REDIS_URL")
+redis_url = os.getenv("REDIS_URL", "redis://127.0.0.1:6379")
 app.config["SESSION_REDIS"] = redis.from_url(redis_url)
 
 db=SQLAlchemy(app)
