@@ -8,7 +8,6 @@ from flask_session import Session
 bcrypt= Bcrypt(app)
 server_session=Session(app)
 
-
 @app.route("/",methods=["GET"])
 def get_restaurants():
     type=request.args.get("type")
@@ -201,14 +200,14 @@ def comments():
         except Exception as e:
             return jsonify({"error": str(e)}), 500
 
-# def reset_database():
-#     with app.app_context():
-#         db.drop_all()
+def reset_database():
+    with app.app_context():
+        db.drop_all()
         
-#         db.create_all()
+        db.create_all()
+
 
 if __name__=="__main__":
     with app.app_context():
-        db.create_all()
         load_data()
     app.run(debug=True)

@@ -9,9 +9,12 @@ load_dotenv()
 
 
 app=Flask(__name__)
-CORS(app, supports_credentials=True,  resources={r"/*": {"origins": "https://gourmet-berlin-frontend.vercel.app/"}})
+CORS(app, supports_credentials=True)
 
-app.config["SQLALCHEMY_DATABASE_URI"]="sqlite:///mydatabase.db"
+db_path = os.path.join(os.path.dirname(__file__), 'mydatabase.db')
+print(f"Database will be created at: {db_path}")
+
+app.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{db_path}'
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"]= False
 app.config["SQLALCHEMY_ECHO"]= True
 app.config["SECRET_KEY"]=os.environ["SECRET_KEY"]
